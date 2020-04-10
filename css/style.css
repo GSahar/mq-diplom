@@ -50,35 +50,28 @@ body {
 }
 
 .logo_head {
-	width: 8.3em;
+	width: 135px;
+	fill: #fff;
 }
 
 .text_head {
-	/*text-align:center;
- 	margin-left: auto;
-    margin-right: auto;*/
+    text-transform: uppercase;	
+	font-size: 28px;
+	color: #fff;
+	margin-top: 135px;
+	text-align: left;
 }
 
 .line_head,.subline_head {
-	text-transform: uppercase;
-	font-weight: bold;
-	font-size: 28px;
-	color: #fff;
-	/*flex-basis: auto;*/
-	
+	font-weight: bold;	
 }
 
 .line_head {
-	/*justify-content: flex-start;*/
-	text-align: left;
-	margin-bottom: 30px;
-	margin-top: 135px;
+	margin-bottom: 30px;	
 }
 
 .subline_head {
-	/*justify-content: flex-end;*/
-	padding-left: 45px;
-	text-align: left;  
+	padding-left: 45px;	 
 }
 
 .group_button {
