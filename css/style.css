@@ -20,16 +20,13 @@ body {
 
 .header {
     padding: 35px 20px;
-    /*padding-bottom: 50px;*/
     box-sizing: border-box;
     min-height: 100vh;
-    /*display: flex;*/
+    
     position: relative;
     text-align: center;
     background-size: cover;
     background-repeat: no-repeat;
-	/*0a0e34*/
-	/*background-color: #0a0e34;*/
     background-image: url("../img/football_767.jpg");
 }
 
@@ -47,38 +44,82 @@ body {
 .container_header {
 	box-sizing: border-box;    
     position: relative;
+	/*display: flex;
+   	flex-wrap: wrap;*/
 }
 
 .logo_head {
 	width: 135px;
-	fill: #fff;
+	fill: #ffffff;
 }
 
 .text_head {
     text-transform: uppercase;	
 	font-size: 28px;
-	color: #fff;
+	color: #ffffff;
 	margin-top: 135px;
+	font-weight: bold;
 	text-align: left;
+
 }
 
 .line_head,.subline_head {
-	font-weight: bold;	
+	font-weight: inherit;		
 }
 
 .line_head {
-	margin-bottom: 30px;	
+	margin-bottom: 30px;		
 }
 
-.subline_head {
-	padding-left: 45px;	 
+.subline_head {	
+	margin-left: 45px;	 
 }
 
 .group_button {
 	margin-bottom: 45px;
 	margin-top: 90px;
+	display: block;
+	
 }
 
-.button {
+.button {	
+	background-color: #5e42b0;
+	margin-bottom: 15px;
+	padding-top: 8px;
+	width: 100%;
+	/*padding-top: 2px;*/
+	padding-bottom: 8px;
+	border-radius: 35px;
+	text-align: left;	
 
+}
+
+.button_app {
+	background-image: url("../svg/apple_logo_black.svg");
+	fill: #fff;
+}
+
+.button_google {
+	background-image: url("../svg/google-play.svg");
+	fill: #fff;
+}
+
+.button_text {
+	width: 70%;
+	margin-left: 30%;
+	padding-left: 30px;
+	background-repeat: no-repeat;
+    background-position: 0 50%;
+    background-size: 22px;	
+}
+
+.button_link {
+	text-transform: uppercase;	
+	font-size: 8px;
+	color: #ffffff;
+	text-decoration: none;
+}
+
+.button_subline {
+	font-weight: bold;
 }
