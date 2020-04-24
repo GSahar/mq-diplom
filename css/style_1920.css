@@ -79,7 +79,7 @@
 
 	.button_line {
 
-		padding-top: -10px;
+		padding-top: 10px;
 	}
 	
 	/**/
@@ -260,7 +260,7 @@
 
 	/**/
 	.content_text_motivation {
-		padding-top: 10%
+		padding-top: 10%;
 		font-size: 24px;
 	}
 
