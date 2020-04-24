@@ -281,14 +281,16 @@ body {
 }
 
 /**/
+.content_growth .content_text  {
+	color: #fff;	
+}
+
+/**/
 .type_sportsmen .dark_them{
 	background-color: #090c35;
 }
 
-/**/
-.dark_them .content_text  {
-	color: #fff;
-}
+
 
 /**/
 .dark_them .number_content  {
@@ -305,7 +307,8 @@ body {
 
 /**/
 .common_head_img {
-	min-height: 90vw;
+	height: 90vw;
+	width: 100%;
     box-sizing: border-box;
     background-size: cover;
 	background-position: right;
