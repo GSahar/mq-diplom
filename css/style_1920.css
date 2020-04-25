@@ -361,7 +361,8 @@
 	/**/
 	.logo_text_footer {
 
-		position: relative;
+		position: absolute;
+		left: 43%;
 		top: 43vw;
 		margin: 0 auto;
 		width: 190px;
