@@ -47,6 +47,7 @@
 
 	/**/
 	.button {	
+		margin: 0;
 		max-width: 310px;
 		height: 75px;
 		border-radius: 35px;
@@ -97,8 +98,8 @@
 	/**/
 	.headline_athlets::before {
 	    content: "";
-		/*width: 100%;
-	    height: 100%;*/
+		width: 100%;
+	    height: 700px;
 		margin-top: 90px;
 	    /*position: absolute;*/
 	    background-image:  url("../img/footballer_497.png");
@@ -112,8 +113,8 @@
 	/**/
 	.headline_players::before {
 	    content: "";
-	    /*width: 100%;
-	    height: 100%;*/
+	    width: 100%;
+	    height: 700px;
 		margin-top: 60px;
 	   /*position: absolute;*/
 	    background-image:  url("../img/basketballer_436.png");
