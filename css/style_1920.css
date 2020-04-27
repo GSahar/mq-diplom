@@ -227,7 +227,7 @@
 
 	/**/
 	.common_head_img {
-		width: 50vw;
+		width: 50%;
 		max-height: 730px;
 	    box-sizing: border-box;
 	    background-size: cover;
