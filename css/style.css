@@ -20,7 +20,7 @@ body {
 
 /**/
 .header {
-    padding: 35px 20px;
+    padding: 4vh 20px;
     box-sizing: border-box;
     min-height: 100vh;
     
@@ -63,7 +63,7 @@ body {
     text-transform: uppercase;	
 	font-size: 28px;
 	color: #ffffff;
-	margin-top: 135px;
+	margin-top: 20vh;
 	font-weight: bold;
 	text-align: left;
 
@@ -92,7 +92,7 @@ body {
 .group_button {
 	
 	margin-bottom: 45px;
-	margin-top: 90px;
+	margin-top: 20vh;
 	display: block;
 
 	width: 100%;
@@ -426,7 +426,7 @@ body {
     max-width: 500px;
 
     margin: 0 auto;
-    padding-top: 100px;
+    padding-top: 20vh;
     padding-bottom: 10px;
 }
 
@@ -454,7 +454,7 @@ body {
     text-transform: uppercase;	
 	font-size: 32px;
 	color: #ffffff;
-	margin-top: 60px;
+	margin-top: 12vh;
 	font-weight: bold;
 	text-align: center;
 }
@@ -473,8 +473,8 @@ body {
 
 /**/
 .group_footer_button {
-	margin-top: 75px;
-	margin-bottom: 80px;
+	margin-top: 12vh;
+	margin-bottom: 17vh;
 }
 
 /**/

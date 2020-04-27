@@ -28,8 +28,8 @@
 	.text_head {
 		font-size: 64px;
 		padding: 0 80px;
-		margin-top: 175px;
-		margin-bottom: 300px;
+		margin-top: 18vh;
+		margin-bottom: 30vh;
 	}
 
 	/**/
@@ -243,7 +243,7 @@
 	.container_footer {
 	    max-width: 1200px;
 
-	    padding-top: 125px;
+	    padding-top: 12vh;
 	    padding-bottom: 10px;
 	}
 
@@ -267,7 +267,7 @@
 	/**/
 	.text_footer {
 		font-size: 80px;
-		margin-top: 80px;
+		margin-top: 7vh;
 
 
 	}
@@ -280,8 +280,8 @@
 
 	/**/
 	.group_footer_button {
-		margin-top: 42%;
-		margin-bottom: 50px;
+		margin-top: 30vh;
+		margin-bottom: 8vh;
 	}
 
 	/**/
